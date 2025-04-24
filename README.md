@@ -1,7 +1,7 @@
 # XTQ: X32 to QLab
 This tool lets you map any X32 button press or action to a QLab command. To keep the name trendy, you can pronounce it "ext-cue", like "next cue".
 
-It does this by forwarding the OSC status messages which X32 fires whenever you change anything on the console to QLab's OSC receive port. You can then map any of these status changes to a QLab function in your workspace settings.
+XTQ works by forwarding the OSC status messages which X32 fires whenever you change anything on the console to QLab's OSC receive port. You can then map any of these status changes to a QLab function in your workspace settings.
 
 This is a bash one-liner with a bit of dressing, put together in a neat file.
 
